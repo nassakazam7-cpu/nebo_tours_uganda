@@ -10,7 +10,7 @@ collections:
       label: "Homepage"
       files:
             - label: "Homepage"
-        name: "homepage"
-        file: "index.html"
-        fields:
-                    - {label: "Body", name: "body", widget: "markdown"}
+      name: "homepage"
+      file: "index.html"
+      fields:
+    - {label: "Body", name: "body", widget: "markdown"}
