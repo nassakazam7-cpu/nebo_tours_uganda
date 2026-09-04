@@ -7,8 +7,8 @@ public_folder: "/images/uploads"
 
 collections:
     - name: "homepage"
-    label: "Homepage"
-    files:
+      label: "Homepage"
+      files:
             - label: "Homepage"
         name: "homepage"
         file: "index.html"
